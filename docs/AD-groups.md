@@ -4,7 +4,7 @@
 
 <hr>
 
-<h2>📌 What are AD groups?</h2>
+<h2>What are AD groups?</h2>
 
 <p>Within Active Directory, each user is assigned to a number of groups. These groups define what the user has access to across systems and services.</p>
 
@@ -12,7 +12,7 @@
 
 <hr>
 
-<h2>🧰 What AD groups control</h2>
+<h2>What AD groups control</h2>
 
 <p>AD groups are used to manage access and permissions across multiple systems:</p>
 
@@ -26,7 +26,7 @@
 
 <hr>
 
-<h2>🔐 Access control and approval</h2>
+<h2>Access control and approval</h2>
 
 <p>In most cases, access to AD groups requires approval from the user's manager before changes can be made.</p>
 
@@ -36,7 +36,7 @@
 
 <hr>
 
-<h2>🛠️ Practical example</h2>
+<h2>Practical example</h2>
 
 <p>If a user needs access to software such as Adobe Creative Cloud, this can be handled by adding the user to the appropriate AD group that controls access to that application.</p>
 
@@ -44,7 +44,7 @@
 
 <hr>
 
-<h2>📈 Current experience</h2>
+<h2>Current experience</h2>
 
 <p>Working with AD groups is currently a key part of my responsibilities. I primarily manage user access and group assignments based on requests and approvals.</p>
 
