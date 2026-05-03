@@ -4,7 +4,7 @@
 
 <hr>
 
-<h2>📌 Overview</h2>
+<h2>Overview</h2>
 
 <p>Confluence serves as a centralized place for documentation, making it easier to share knowledge across the organization.</p>
 
@@ -12,7 +12,7 @@
 
 <hr>
 
-<h2>🧱 Page structure</h2>
+<h2>Page structure</h2>
 
 <p>A Confluence page is built using different sections and layout elements.</p>
 
@@ -24,7 +24,7 @@
 
 <hr>
 
-<h2>⚙️ Macros</h2>
+<h2>Macros</h2>
 
 <p>Macros are a key part of how Confluence pages are built and customized.</p>
 
@@ -38,7 +38,7 @@
 
 <hr>
 
-<h2>🔐 Permissions and access</h2>
+<h2>Permissions and access</h2>
 
 <p>One of the most important aspects of Confluence is managing permissions correctly.</p>
 
@@ -53,7 +53,7 @@
 
 <hr>
 
-<h2>📚 Use case</h2>
+<h2>Use case</h2>
 
 <p>Confluence is a strong tool for:</p>
 
@@ -63,7 +63,7 @@
 
 <hr>
 
-<h2>🔄 Current work (WIP)</h2>
+<h2>Current work (WIP)</h2>
 
 <p>I am currently responsible for managing both the internal and public Confluence spaces.</p>
 
@@ -75,7 +75,7 @@
 
 <hr>
 
-<h2>🧠 Perspective</h2>
+<h2>Perspective</h2>
 
 <p>This migration is a work in progress and will take time to complete.</p>
 
