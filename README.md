@@ -9,12 +9,12 @@ This will be a guide for myself, and hopefully other people
 
 
 
-<h2>🧩Purpose of this project</h2>
+<h2>Purpose of this project</h2>
 <p>- Reference for later use</p>
 <p>- Documentation/Knowledge database that i can always access</p>
 <p>- Improve my skills</p>
 <hr>
-<h2>🧰Tools and systems</h2>
+<h2>Tools and systems</h2>
 <p>- Active Directory</p>
 <p>- Mikrotik Winbox</p>
 <p>- SeninelOne firewall</p>
@@ -24,19 +24,19 @@ This will be a guide for myself, and hopefully other people
 <p>- Jira and Confluence</p>
 <p>- (Will be adding more as i go)</p>
 <hr>
-<h2>💻Current most encountered issues</h2>
+<h2>Current most encountered issues</h2>
 <p>- Docking station related stuff</p>
 <p>- Onboarding</p>
 <p>- Requesting access for different AD groups</p>
 <hr>
-<h2>🧠 Notes and learnings</h2>
+<h2>Notes and learnings</h2>
 <p>- This is a personal learning project</p>
 <p>- Not everything here is perfect or final</p>
 <p>- Focus is on practical understanding</p>
 
 <hr>
 
-<h2>🚀 Goals</h2>
+<h2>Goals</h2>
 <p>- Continuously improve documentation</p>
 <p>- Add real-world cases</p>
 <p>- Build a solid IT support foundation</p>
