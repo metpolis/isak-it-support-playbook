@@ -4,13 +4,13 @@
 
 <hr>
 
-<h2>📌 Important context</h2>
+<h2>Important context</h2>
 
 <p>PXE boot has been tested on Lenovo laptops and desktops, and in all cases the same ethernet port has been used. A stable wired network connection is required for the process to work correctly.</p>
 
 <hr>
 
-<h2>⚙️ BIOS setup (Required before PXE boot)</h2>
+<h2>BIOS setup (Required before PXE boot)</h2>
 
 <p>Before starting PXE boot, the BIOS must be configured correctly. The following settings should be verified:</p>
 
@@ -22,7 +22,7 @@
 
 <hr>
 
-<h2>🚀 PXE boot process</h2>
+<h2>PXE boot process</h2>
 
 <p>Once the system is powered on, press F12 to enter the boot manager.</p>
 
@@ -34,7 +34,7 @@
 
 <hr>
 
-<h2>⚠️ Mistakes I have encountered</h2>
+<h2>Mistakes I have encountered</h2>
 
 <p>During PXE booting, I have encountered a few common issues that are important to be aware of.</p>
 
@@ -48,6 +48,6 @@
 
 <hr>
 
-<h2>✅ Summary</h2>
+<h2>Summary</h2>
 
 <p>PXE boot is a reliable method for deploying new machines when BIOS settings, network connectivity, and infrastructure availability are correctly configured. Attention to detail is critical, as small misconfigurations can prevent the process from working as expected.</p>
