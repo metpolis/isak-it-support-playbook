@@ -4,7 +4,7 @@
 
 <hr>
 
-<h2>📌 Overview</h2>
+<h2>Overview</h2>
 
 <p>Jira allows me to organize my work and maintain a clear overview of both my own tasks and what my colleagues are working on. This makes it easier to prioritize and collaborate within the team.</p>
 
@@ -12,7 +12,7 @@
 
 <hr>
 
-<h2>🧰 Daily usage</h2>
+<h2>Daily usage</h2>
 
 <p>In my daily workflow, I mainly use different queues to manage tickets.</p>
 
@@ -23,7 +23,7 @@
 
 <hr>
 
-<h2>🛠️ How I handle a ticket</h2>
+<h2>How I handle a ticket</h2>
 
 <p>When working on a ticket, I follow a structured approach to ensure consistency and quality in my support:</p>
 
@@ -41,7 +41,7 @@
 
 <hr>
 
-<h2>⚙️ Strengths</h2>
+<h2>Strengths</h2>
 
 <p>- Provides a clear overview of tasks and team activity</p>
 <p>- Enables continuous documentation of work and solutions</p>
@@ -52,7 +52,7 @@
 
 <hr>
 
-<h2>⚠️ Limitations</h2>
+<h2>Limitations</h2>
 
 <p>While Jira is a powerful tool, it does have some drawbacks in daily use.</p>
 
@@ -62,7 +62,7 @@
 
 <hr>
 
-<h2>📈 Personal experience</h2>
+<h2>Personal experience</h2>
 
 <p>Jira is my first ITSM system, and I find it relatively easy to get started with. However, mastering it takes time, especially when it comes to workflows, automation, and advanced usage.</p>
 
