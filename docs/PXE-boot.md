@@ -44,6 +44,8 @@
 
 <p>Additionally, PXE boot was once unavailable due to maintenance on the MECM server. In this situation, the issue was not related to the client device but to the backend infrastructure required for deployment, which temporarily prevented PXE functionality.</p>
 
+<p>Very importantly i encountereed there being issues on PXE when DHCP is not setup correctly, so this is also something to look out for.</p>
+
 <p>These situations highlight the importance of verifying both physical connections and infrastructure availability before starting the PXE boot process.</p>
 
 <hr>
